@@ -1,0 +1,26 @@
+{
+    "author": "stefanwer",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchymcwatchface",
+    "pebble": {
+        "displayName": "WatchyMcWatchFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "7fb92c3c-a50d-44db-b859-92ef550ba903",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
