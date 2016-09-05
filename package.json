@@ -9,7 +9,41 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "images/alien_head.png",
+                    "name": "IMAGE_ALIEN_HEAD",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/watch.png",
+                    "name": "IMAGE_WATCH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "characterRegex": "[0-9:.]",
+                    "file": "fonts/earth_orbiter.ttf",
+                    "name": "FONT_EARTH_ORBITER_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "characterRegex": "[0-9:.]",
+                    "file": "fonts/star_trek_future.ttf",
+                    "name": "FONT_STAR_TREK_FUTURE_64",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "characterRegex": "[0-9:.]",
+                    "file": "fonts/space_age.ttf",
+                    "name": "FONT_SPACE_AGE_24",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
